@@ -1,0 +1,10 @@
+body{
+    background-color: blue;
+}
+.te{
+    color: yellow;
+    text-align: center;
+    margin-top: 300px;
+    font-size: 60px;
+    text-shadow: 1px 3px 2px black;
+}
